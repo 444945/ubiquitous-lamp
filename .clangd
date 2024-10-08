@@ -1,0 +1,5 @@
+CompileFlags:
+     Add: [
+       "-I/home/x/vcpkg/installed/x64-linux/include",
+       "-std=c++23"
+     ]
